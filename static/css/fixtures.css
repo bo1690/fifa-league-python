@@ -1,0 +1,35 @@
+﻿.match-center td {
+    border-bottom: 1px solid #dadada;
+    border-top: none;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+.match-center .team-name {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 15px 5px;
+    color: #9a9e9d;
+    display: block;
+}
+
+.match-center .team-logo {
+    width: 80px;
+    margin: auto;
+    display: block;
+}
+
+.match-center .team-goals {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 5px;
+    display: block;
+}
+
+.match-center .team-separator {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    display: block;
+}
